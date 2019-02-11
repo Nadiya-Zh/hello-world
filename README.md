@@ -1,2 +1,4 @@
 # hello-world
-перші кроки в програмуванні
+first program
+my name is Nadiya and i am teacher
+
